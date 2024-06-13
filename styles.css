@@ -3,3 +3,8 @@ header {
   text-align: center;
   font-size: 30px;
 }
+
+.align {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
