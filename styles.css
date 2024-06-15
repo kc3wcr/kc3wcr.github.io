@@ -12,3 +12,8 @@ header {
 .font {
   font-family: 'Roboto', sans-serif;
 }
+
+div {
+  width:300px;
+  margin:auto;
+}
